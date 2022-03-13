@@ -1,0 +1,51 @@
+.header{
+    background: linear-gradient(rgb(0, 183, 255),rgb(7, 115, 187));
+    width: 30%;
+    height: 62px;
+    margin-left: 400px;
+    font-family: sans-serif;
+    border-radius: 10px 10px 0 0;
+
+
+}
+.fontmargin{
+    
+    padding-top: 10px;
+    margin-left: 18px;
+    color: white;
+}
+.login{
+    width: 92%;
+    padding-top: 36px;
+    padding-left: 30px;
+    background-color: whitesmoke;
+    height: 237px;
+    box-shadow: 0 0 0 1px rgb(109, 107, 107);
+}
+/* .submit{
+    background: linear-gradient(rgb(30, 177, 30),rgb(8, 109, 8));
+    margin-top: 20px;
+    margin-left: 40px;
+   
+    box-shadow: 0 0 0 1px rgb(109, 107, 107);
+}*/
+    
+
+
+.email{
+    padding-left: 39px;
+    padding-top: 10px;
+}.password{
+    padding-left: 10px;
+}.join{
+    width: 100px;
+    height: 25px;
+    margin-left: 84px;
+    margin-top: 30px;
+    background-color: green;
+    color: white;
+    border: none;
+    background: linear-gradient(rgb(30, 177, 30)50%,rgb(8, 109, 8)50%);
+    box-shadow: 0 0 0 1px rgb(109, 107, 107);
+    
+}
